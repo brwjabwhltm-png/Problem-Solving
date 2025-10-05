@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{384e3604-b81b-421b-84f6-213371c04953}</ProjectGuid>
-    <RootNamespace>CheckIdentityMatrix</RootNamespace>
+    <ProjectGuid>{ef6910d8-d683-4891-a983-b5e25c5af50e}</ProjectGuid>
+    <RootNamespace>LeapYear</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
