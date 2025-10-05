@@ -1,1 +1,1 @@
-<h1>Promblem Solving using C++</h1>
+<h1>Problem Solving using C++</h1>
